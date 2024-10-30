@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Dicoding Event App</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="owner">by: %1$s</string>
+    <string name="quota">remaining quota: %1$s</string>
+    <string name="dicoding_event">Dicoding Event</string>
+    <string name="upcoming">Upcoming Events</string>
+    <string name="finished">Finished Events</string>
+    <string name="begin">Open Until: %1$s</string>
+    <string name="quota_detail">Remaining Quota: %1$d</string>
+    <string name="location">Location: %1$s</string>
+    <string name="description">Description</string>
+    <string name="register">Register</string>
+    <string name="detail">Detail Event</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="message_internet">Please check your internet connection</string>
+    <string name="event_not_found">Event not found</string>
+    <string name="message_not_found">Sorry, there were no events matching your search</string>
+    <string name="hello_blank_fragment">Hello</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="enable_dark_mode">Enable dark mode</string>
+
+
+
+</resources>

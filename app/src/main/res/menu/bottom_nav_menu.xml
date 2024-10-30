@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_upcoming"
+        android:icon="@drawable/calender_24"
+        android:title="@string/title_upcoming"
+        app:showAsAction="never"
+        android:iconTint="@android:color/holo_purple"/>
+
+    <item
+        android:id="@+id/navigation_finished"
+        android:icon="@drawable/event_finished_24"
+        android:title="@string/title_finished"
+        app:showAsAction="never"
+        android:iconTint="@android:color/holo_purple"/>
+
+    <item
+        android:id="@+id/navigation_favorite"
+        android:icon="@drawable/favorite_24"
+        android:title="@string/favorite"
+        app:showAsAction="never"
+        android:iconTint="@android:color/holo_purple"/>
+
+    <item
+        android:id="@+id/navigation_setting"
+        android:icon="@drawable/ic_setting"
+        android:title="@string/setting"
+        app:showAsAction="never"
+        android:iconTint="@android:color/holo_purple"/>
+
+</menu>
